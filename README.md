@@ -1,4 +1,4 @@
-# The pyam package - live demo at the *Strommarkttreffen* seminar
+# The pyam package at the *Strommarkttreffen* seminar
 
 ![License](https://img.shields.io/github/license/danielhuppmann/strommarkttreffen-pyam)
 [![python](https://img.shields.io/badge/python-3.7_|_3.8_|_3.9-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
