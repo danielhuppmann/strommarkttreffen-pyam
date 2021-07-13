@@ -11,7 +11,18 @@ Copyright 2021 Daniel Huppmann; this repository is released under the [MIT Licen
 This repository holds a Jupyter notebook for a live-demo of the **pyam** package
 given as part the *Strommarkttreffen-Online* seminar series on July 14, 2021.
 
-The slides for the presentation are available at the DOI [10.22022/IACC/07-2021.17319](https://doi.org/10.22022/IACC/07-2021.17319).
+The Jupyter notebook is based on the advanced assignment
+of the [Modelling Lab](https://github.com/danielhuppmann/climate-risks-academy-2021),
+which was part of the *Climate Risks Academy 2021* organized by
+the European University Institute (EUI) Florence School of Banking and Finance
+in cooperation with Oliver Wyman.
+
+The scenario data used in this tutorial notebook is taken from
+the [NGFS Scenario Explorer hosted by IIASA](https://data.ece.iiasa.ac.at/ngfs),
+Phase 2 (June 2021).
+
+The slides for the presentation are available
+at the DOI [10.22022/IACC/07-2021.17319](https://doi.org/10.22022/IACC/07-2021.17319).
 
 See https://www.strommarkttreffen.org/online/ for more about the *Strommarkttreffen* (in German).
 
