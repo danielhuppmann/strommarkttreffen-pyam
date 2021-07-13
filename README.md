@@ -8,7 +8,7 @@ Copyright 2021 Daniel Huppmann; this repository is released under the [MIT Licen
 
 ## Overview
 
-This repository holds a Jupyter notebook for a live-demo of the **pyam** package
+This repository holds a [Jupyter notebook](tutorial-notebook.ipynb) for a live-demo of the **pyam** package
 given as part the *Strommarkttreffen-Online* seminar series on July 14, 2021.
 
 The Jupyter notebook is based on the advanced assignment
